@@ -1,0 +1,9 @@
+Hello
+Hadoop
+Goodbye
+Hadoop
+Bye
+World
+Goodbye
+Hello
+Hadoop
